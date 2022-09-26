@@ -7,4 +7,4 @@ Meus projetos do Odin Project em apenas um lugar
 - [ ] CSS;
 - [ ] JavaScript;
 - [ ] Node;
-- Adiciono mais depois.
+- [ ] Adiciono mais depois.
