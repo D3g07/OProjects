@@ -1,2 +1,8 @@
 # OProjects
-Meus projetos do Odin Project em um lugar só, pura preguiça
+Meus projetos do Odin Project em apenas um lugar
+
+## Todas as tecnologias revisadas
+
+- HTML;
+- CSS;
+- Irei adicionando mais com o passar dos estudos.
