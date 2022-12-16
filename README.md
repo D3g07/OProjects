@@ -1,5 +1,5 @@
 # OProjects
-Meus projetos do Odin Project em apenas um lugar
+Meus projetos do Odin Project em apenas um lugar.
 
 ## Todas as tecnologias revisadas
 
