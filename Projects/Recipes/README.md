@@ -1,0 +1,3 @@
+# Receitas Odin
+Uma receita para o site de puro html...
+Fiquei com preguiça de adicionar mais, já tinha até esquecido de fazer esse.
