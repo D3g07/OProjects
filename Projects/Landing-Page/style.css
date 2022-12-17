@@ -6,7 +6,6 @@
   font-family: 'Roboto', sans-serif;
 }
 body {
-    overflow: hidden;
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -171,4 +170,5 @@ b {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 22px;
 }
