@@ -5,6 +5,7 @@
   padding: 0px;
   font-family: 'Roboto', sans-serif;
 }
+
 body {
     height: 100vh;
     display: flex;
@@ -78,6 +79,11 @@ button {
   border: none;
   border-radius: 6px;
   font-size: 15px;
+}
+
+.first img {
+  height: 240px; 
+  width: 460px;
 }
 
 .second {
@@ -171,4 +177,42 @@ b {
   justify-content: center;
   align-items: center;
   padding: 22px;
+}
+
+/* INFERNO */
+
+@media (max-width: 360px) {
+  body, html {
+    overflow-x: hidden;
+  }
+
+  .header {
+    padding: 16px;
+  }
+
+  .header .direita  ul {
+    display: none;
+  }
+
+  .item-container {
+    flex-direction: column;
+  }
+
+  .first {
+    padding: 50px 16px;
+    flex-direction: column;
+  }
+  .first .esquerda {
+    text-align: center;
+    width: 100%;
+    padding: 0 16px;
+  }
+
+  .first img {
+    width: 300px;
+  }
+
+  .quote {
+    width: 200px;
+  }
 }
